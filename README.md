@@ -1,5 +1,5 @@
 # Twitter Project
-
+![twitter logo](twitter.png)
 ## Introduction
 
 The Twitter Project is a command-line application developed in C++ that simulates basic Twitter-like functionality. It allows users to perform various actions, such as user registration, logging in, posting tweets, liking tweets, commenting on tweets, and more. This project is designed to manage tweets, comments, and user data in a rudimentary database.
